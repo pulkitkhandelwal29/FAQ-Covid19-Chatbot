@@ -2,6 +2,17 @@ version: "3.1"
 
 stories:
 
+- story: greeting
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+
+- story: goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
 - story: corona intro
   steps:
   - intent: corona_intro
