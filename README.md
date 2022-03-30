@@ -8,6 +8,9 @@ For more documentation, refer to https://rasa.com/
 ## Why Rasa?
 Using Rasa, it becomes easier to build conversational AI and improve it over time. The best part? It follows the interactive learning method for improving which makes it easier for you and saves you time, money and resources. It can be used to build great text- as well as voice-based virtual assistants efficiently.
 
-## Working Chatbot
+## Working Chatbot in Terminal
 
 ![1](https://user-images.githubusercontent.com/67990422/160791829-da6d1e93-ac1b-4136-8ab5-0bb31bd6db1f.PNG)
+
+## Working Chatbot in Website
+![2](https://user-images.githubusercontent.com/67990422/160803636-d7fdf1bc-b304-4f85-9bae-2479c0f0ee29.PNG)
